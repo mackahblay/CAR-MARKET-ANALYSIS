@@ -25,6 +25,7 @@ This project aims to analyze the car market by exploring various factors that in
 1. Several regression models were trained, including Linear Regression, Support Vector Regressor, Random Forest Regressor, AdaBoost Regressor, Gradient Boosting Regressor, and XGBoost Regressor.
 2. The models were evaluated using metrics such as Mean Squared Error, Root Mean Squared Error, Mean Absolute Error, and R-squared.
 3. The best-performing model was the Random Forest Regressor, with an R-squared of 0.88.
+<img width="1186" alt="Screenshot 2024-12-07 at 17 18 32" src="https://github.com/user-attachments/assets/9cc5ff3a-8e9b-40cd-ab34-7f72cb8bab74">
 
 ## Key Findings
 1. Fuel efficiency (fuel) is the most important feature in determining car prices, followed by engine volume (vol_engine) and mileage (mileage).
