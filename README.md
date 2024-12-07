@@ -29,10 +29,14 @@ This project aims to analyze the car market by exploring various factors that in
 ## Key Findings
 <img width="1186" alt="Screenshot 2024-12-07 at 17 18 32" src="https://github.com/user-attachments/assets/9cc5ff3a-8e9b-40cd-ab34-7f72cb8bab74">
 1. Fuel efficiency (fuel) is the most important feature in determining car prices, followed by engine volume (vol_engine) and mileage (mileage).
+
 2. Electric and hybrid vehicles tend to have the highest average prices, while CNG and LPG-powered vehicles have the lowest.
-3. The top car manufacturers in terms of average prices are Mercedes-Benz, BMW, and Audi.
-4. Certain regions, such as Niedersachsen and Moravian-Silesian Region, have higher average car prices compared to other provinces.
-5. The most popular car models in the market are Opel Astra, BMW Serie 3, and Audi A4.
+   
+4. The top car manufacturers in terms of average prices are Mercedes-Benz, BMW, and Audi.
+   
+6. Certain regions, such as Niedersachsen and Moravian-Silesian Region, have higher average car prices compared to other provinces.
+   
+8. The most popular car models in the market are Opel Astra, BMW Serie 3, and Audi A4.
 
 ## Conclusion
 This comprehensive analysis of the car market provides valuable insights for manufacturers, dealers, and consumers. The findings can help guide strategic decisions around product development, pricing, and marketing to better meet customer preferences and remain competitive in the industry. The predictive models developed can also be used to estimate car prices based on their attributes.
